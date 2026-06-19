@@ -60,4 +60,3 @@ elif resposta == 2:
     print("Dirija-se a um banco mais próximo!")
 else:
      print("Opção inválida!")
-     print("Olá nome_utilizador")
