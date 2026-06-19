@@ -19,4 +19,4 @@ Este é um projeto de simulação de terminal bancário desenvolvido em Python p
 2. Clone este repositório.
 3. Execute o ficheiro principal no terminal:
    ```bash
-   python main.py
+   python inicio.py
